@@ -4,12 +4,6 @@
 
 **Face Recognition + TOTP + Vibration-Based Intrusion Detection on a dual-ESP32 platform**
 
-[![ESP32](https://img.shields.io/badge/ESP32-Dev%20Module-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
-[![ESP32-CAM](https://img.shields.io/badge/ESP32--CAM-AI%20Thinker-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
-[![Arduino](https://img.shields.io/badge/Arduino%20IDE-C%2FC%2B%2B-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![Telegram](https://img.shields.io/badge/Alerts-Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api)
-[![TOTP](https://img.shields.io/badge/TOTP-RFC%206238-4285F4?style=for-the-badge&logo=googleauthenticator&logoColor=white)](https://datatracker.ietf.org/doc/html/rfc6238)
-
 <img src="docs/images/prototype_setup.png" alt="Prototype setup" width="620"/>
 
 *A low-cost, real-time smart access control system that opens the door only when **who you are** (your face) and **what you have** (a Google Authenticator code) both check out — and tells you on Telegram the moment someone tries to break in.*
